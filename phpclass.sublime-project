@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"sublime-view-in-browser":
+		{
+			"basePath": "/home/tyler/Projects/phpclass",
+			"baseUrl": "localhost/phpclass"
+		}
+	}
+}

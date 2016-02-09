@@ -1,0 +1,372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "constants.php",
+			"settings":
+			{
+				"buffer_size": 126,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/tyler/.config/sublime-text-3/Settings/SideBarEnhancements.json",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blank.php",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "open in",
+		"selected_items":
+		[
+			[
+				"open in",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: htmlboiler"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/tyler/Projects/phpclass/demo"
+	],
+	"file_history":
+	[
+		"/home/tyler/Projects/phpclass/scope.php",
+		"/home/tyler/Projects/phpclass/return_values_function.php",
+		"/home/tyler/Projects/phpclass/functions.php",
+		"/home/tyler/Projects/note_app/functions.php",
+		"/home/tyler/Projects/node_note/index.js",
+		"/home/tyler/Projects/node_note/package.json",
+		"/home/tyler/Projects/note_app/assets/css/main.sass",
+		"/home/tyler/Projects/note_app/assets/php/user.php",
+		"/home/tyler/Projects/note_app/assets/php/password.php",
+		"/home/tyler/Projects/note_app/assets/php/config.php",
+		"/home/tyler/Projects/note_app/signup-form.php",
+		"/home/tyler/Projects/note_app/index.php",
+		"/home/tyler/Projects/note_app/assets/php/phpmailer/mail.php",
+		"/home/tyler/Projects/note_app/assets/php/connection.php",
+		"/home/tyler/Projects/note_app/assets/php/signup.php",
+		"/etc/phpmyadmin/config.inc.php",
+		"/etc/php5/apache2/php.ini",
+		"/etc/mysql/my.cnf",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/etc/phpmyadmin/apache.conf",
+		"/etc/apache2/apache2.conf",
+		"/home/tyler/Projects/note_app/templates/footer.php",
+		"/home/tyler/Projects/note_app/templates/header.php",
+		"/home/tyler/Projects/note_app/.gitignore",
+		"/home/tyler/Projects/jbf-new/templates/footer.php",
+		"/home/tyler/Projects/jbf-new/index.php",
+		"/home/tyler/Dropbox/Boilerplate/index.html",
+		"/home/tyler/Projects/jbf-new/assets/php/index.php",
+		"/home/tyler/Projects/jbf-new/assets/css/main.sass",
+		"/home/tyler/Projects/jbf-new/templates/header.php",
+		"/home/tyler/Projects/jbf-new/contact.php",
+		"/home/tyler/Projects/jbf-new/donate.php",
+		"/home/tyler/Projects/jbf-new/about.php",
+		"/home/tyler/Projects/jbf-new/package.json",
+		"/home/tyler/Projects/jbf-new/Gruntfile.js",
+		"/home/tyler/Projects/jbf-new/.gitignore",
+		"/etc/ssmtp/revaliases",
+		"/etc/ssmtp/ssmtp.conf",
+		"/home/tyler/Projects/jbf-new/donate.html",
+		"/home/tyler/Projects/jbf-new/assets/js/global.js",
+		"/home/tyler/Projects/jbf-new/assets/php/global.php",
+		"/home/tyler/Projects/jbf-new/contact.html",
+		"/home/tyler/Projects/jbf-new/about.html",
+		"/home/tyler/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/tyler/Projects/angular/Code-Modules-Apps-Controllers-/index.htm",
+		"/home/tyler/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/tyler/.config/sublime-text-3/Packages/User/Chrome.sublime-build",
+		"/home/tyler/.config/sublime-text-3/Settings/SideBarEnhancements.json",
+		"/home/tyler/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/home/tyler/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/tyler/Projects/Angular Course/section1/index.html",
+		"/home/tyler/Projects/Angular Course/section1/section1",
+		"/home/tyler/Projects/Angular Course/section1/section1/lesson1/index.html",
+		"/home/tyler/Projects/Angular Course/section1/section1/libs/angular/angular.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"result",
+			"password",
+			"contact"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "constants.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/tyler/.config/sublime-text-3/Settings/SideBarEnhancements.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blank.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "phpclass.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"angular",
+				"libs/angular/angular.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 92.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
