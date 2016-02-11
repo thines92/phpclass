@@ -1,6 +1,8 @@
 <?php
 
+	session_start();
 
+	$_SESSION['greeting'] = "Hello person, this works too";
 
 ?>
 	
@@ -10,8 +12,8 @@
 	<title></title>
 </head>
 <body>
-	
 
+	
 
 </body>
 </html>

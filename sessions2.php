@@ -1,6 +1,8 @@
 <?php
 
+	session_start();
 
+	echo $_SESSION['greeting'];
 
 ?>
 	
@@ -10,8 +12,8 @@
 	<title></title>
 </head>
 <body>
-	
 
+	
 
 </body>
 </html>
